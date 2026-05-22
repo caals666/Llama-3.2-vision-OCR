@@ -41,7 +41,7 @@ ollama pull llama3.2-vision:11b
 
 **4. Run the app**
 ```bash
-streamlit run app.py
+streamlit run imageocr.py
 ```
 
 ---

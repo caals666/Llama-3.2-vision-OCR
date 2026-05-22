@@ -60,7 +60,7 @@ streamlit run imageocr.py
 
 ```
 llama-ocr/
-├── app.py        # Main Streamlit application
+├── imageocr.py        # Main Streamlit application
 └── README.md
 ```
 
